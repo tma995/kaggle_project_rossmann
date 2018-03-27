@@ -23,3 +23,6 @@
 >* 在该项尝试中，由于计算量大，耗时很长；基于aws虚拟机，CPU版本的xgboost，n_thread=16，训练耗时约3小时；
 * 实际运行中，可以跳过网格搜索优化参数模块，直接运行训练模块； 
 * 上述几项程序总耗时约5到6小时；
+
+### 参考链接：
+* Kaggle竞赛项目链接：[https://www.kaggle.com/c/rossmann-store-sales](https://www.kaggle.com/c/rossmann-store-sales)
